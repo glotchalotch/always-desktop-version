@@ -6,3 +6,5 @@ Well, this is an extension that fixes that for you. With this extension, m.wikip
 You can also disable either one of the site redirects by going to the extension's options page.
 
 I also don't have any experience with extensions, so if you want to contribute, go ahead!
+
+[Get the extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/always-desktop-version/)
