@@ -4,7 +4,6 @@ browser.storage.sync.get("twitter").then((result, err) => {
         if(result.twitter == undefined) browser.storage.sync.set({ "twitter": true });
         let href = location.href;
         href = href.split(/\.?mobile\./).join("");
-        console.log(browser.runtime);
         console.info("Redirecting to " + href);
         location.replace(href);
     }
